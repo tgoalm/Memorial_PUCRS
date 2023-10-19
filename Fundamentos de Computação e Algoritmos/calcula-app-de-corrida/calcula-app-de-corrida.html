@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="pt-BR" data-bs-theme="dark">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Calcula app de corrida!</title>
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    </head>
+    <body class="text-center">
+        <div class="cover-container d-flex w-100 h-100 p-3 mx-auto flex-column">
+            <header class="masthead mb-auto">
+                <div class="inner">
+                    <h3 class="masthead-brand">Calcula app de corrida!</h3>
+                </div>
+            </header>
+        </div>
+        <div class="container">
+            <div class="row justify-content-md-center">
+                <div class="col col-lg-2"></div>
+                <div class="col-md-auto">
+                    <input type="number" class="form-control m-1" id="campoDistanciaEmKm" placeholder="Distância em KM"></input>
+                </div>
+                <div class="col col-lg-2"></div>
+            </div>
+            <div class="row justify-content-md-center">
+                <div class="col col-lg-2"></div>
+                <div class="col-md-auto">
+                    <input type="number" class="form-control m-1" id="campoTempoEmMinutos" placeholder="Tempo em minutos"></input>
+                </div>
+                <div class="col col-lg-2"></div>
+            </div>
+            <div class="row justify-content-md-center">
+                <div class="col col-lg-2"></div>
+                <div class="col-md-auto">
+                    <button type="button" class="btn btn-secondary m-1" onclick="calculaCorrida();">Calcula</button>
+                </div>
+                <div class="col col-lg-2"></div>
+            </div>
+        </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+    </body>
+    <script>
+    function formataMoeda(valor)
+    {
+        return valor.toFixed(2).replace('.', ',');
+    }
+
+    function calculaCorrida() 
+    {
+        if((campoDistanciaEmKm.value != '') && (campoTempoEmMinutos.value != '')) {
+            var tarifaDinamica = 1.4;
+            var distanciaEmKm = campoDistanciaEmKm.value * tarifaDinamica;
+            var tempoEmMinutos = campoTempoEmMinutos.value * 0.26;
+            var valorDaCorrida = distanciaEmKm + tempoEmMinutos;
+            alert("O valor da corrida é " + formataMoeda(valorDaCorrida));
+        }
+        if((campoDistanciaEmKm.value == '') || (campoTempoEmMinutos.value == '')) {
+            alert("A distância e o tempo tem que estar preenchidos para realização do cálculo.");
+        }
+    }
+    
+    </script>
+    
+  </body>
+</html>
+
+
+
