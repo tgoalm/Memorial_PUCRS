@@ -3,8 +3,13 @@
 Neste repositório, apresento artefatos elaborados ao longo do curso Desenvolvimento Full Stack.
 
 1. Fundamentos de Computação e Algoritmos
-    1.1 Programa que calcula idade de acordo com data de nascimento e data atual.
-    1.2 Programa que simula valor de corrida via app de acordo com distância e tempo.
+
+  1.1 Programa que calcula idade de acordo com data de nascimento e data atual.
+
+  1.2 Programa que simula valor de corrida via app de acordo com distância e tempo.
+
+  1.3
+
 2. Programação Orientada a Objetos
 3. DevOps Básico
 4. Design de UI
