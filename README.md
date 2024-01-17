@@ -4,7 +4,7 @@ Neste repositório, apresento artefatos elaborados ao longo do curso Desenvolvim
 
 1. Fundamentos de Computação e Algoritmos
 
-    1.1 Programa que calcula idade de acordo com data de nascimento e data atual.
+    1.1 [Programa que calcula idade de acordo com data de nascimento e data atual.](https://github.com/tgoalm/Memorial_PUCRS/blob/main/Fundamentos%20de%20Computa%C3%A7%C3%A3o%20e%20Algoritmos/calcula-app-de-corrida/calcula-app-de-corrida.html)
 
     1.2 Programa que simula valor de corrida via app de acordo com distância e tempo.
 
