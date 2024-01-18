@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+        class Queue {
+            constructor() {
+                this.data = [];
+            }
+            enqueue(item) {
+                this.data.push(item);
+                this.print();
+            }
+            decueue() {
+                this.data.shift();
+                this.print();
+            }
+            print() {
+                document.write(this.data + '<br>');
+                console.log(this.data + '<br>');
+            }
+        }
+        document.write('<h1>[Fila/Queue]</h1>');
+        var requests = new Queue();
+        requests.enqueue('script.js');
+        requests.decueue('scripts.js');
+        requests.enqueue('style.css');
+        requests.enqueue('imagem.png');
+        requests.enqueue('doguinho.png');
+    </script>
+</head>
+<body>
+    
+</body>
+</html>

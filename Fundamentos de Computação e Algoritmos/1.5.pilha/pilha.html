@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+        class BrowserHistoryStack {
+            constructor() {
+                this.cursor = 0;
+                this.data = [];
+            }
+            push(item) {
+                this.cursor ++;
+                this.data.push(item);
+                this.print();
+            }
+            back() {
+                this.cursor --;
+                this.data.pop();
+                this.print();
+            }
+            clear() {
+                this.data = [];
+            }
+            print() {
+                document.write('Cursor: ' + this.cursor + '<br>');
+                document.write('Itens atuais: ' + this.data + '<br>');
+                console.log('Cursor: ' + this.cursor + '<br>');
+                console.log('Itens atuais: ' + this.data + '<br>');
+            }
+        }
+
+        document.write('<h1>[Pilha/Stack]</h1>');
+
+        const history = new BrowserHistoryStack();
+        history.push('https://www.google.com');
+        history.push('https://www.youtube.com');
+        history.push('https://www.facebook.com');
+        history.back();
+    </script>
+</head>
+<body>
+    
+</body>
+</html>
