@@ -1,5 +1,19 @@
-<title>Programa que calcula idade!</title>
-<h1>Programa que calcula idade!</h1>
-<script>
-    document.write(2023-prompt("Quando você nasceu?"))
-</script>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Programa que calcula idade!</title>
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.13.2/themes/base/jquery-ui.css">
+    <link rel="stylesheet" href="/resources/demos/style.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+    <script src="https://code.jquery.com/ui/1.13.2/jquery-ui.js"></script>
+</head>
+<body>
+    <h1>Programa que calcula idade!</h1>
+    <script>
+        const data = new Date();
+        const anoAtual = data.getFullYear();
+        document.write("Você tem " + (anoAtual-prompt("Em que ano você nasceu?"))+ " anos.");
+    </script>
+</body>
