@@ -14,6 +14,8 @@ Neste repositório, apresento artefatos elaborados ao longo do curso Desenvolvim
 
     1.5 [Programa que simula uma esrutura de dados do tipo pilha.](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Fundamentos%20de%20Computa%C3%A7%C3%A3o%20e%20Algoritmos/1.5.pilha)
 
+    1.6 [Programa para simples teste da instalação do node-js.](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Fundamentos%20de%20Computa%C3%A7%C3%A3o%20e%20Algoritmos/1.6.hello-world)
+
 2. Programação Orientada a Objetos
 3. DevOps Básico
 4. Design de UI
