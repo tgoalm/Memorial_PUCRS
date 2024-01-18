@@ -4,11 +4,11 @@ Neste repositório, apresento artefatos elaborados ao longo do curso Desenvolvim
 
 1. Fundamentos de Computação e Algoritmos
 
-    1.1 [Programa que calcula idade de acordo com data de nascimento e data atual.](https://github.com/tgoalm/Memorial_PUCRS/blob/main/Fundamentos%20de%20Computa%C3%A7%C3%A3o%20e%20Algoritmos/1.1.calcula-idade/calcula-idade.html)
+    1.1 [Programa que calcula idade de acordo com data de nascimento e data atual.](https://github.com/tgoalm/Memorial_PUCRS/blob/main/Fundamentos%20de%20Computa%C3%A7%C3%A3o%20e%20Algoritmos/1.1.calcula-idade)
 
-    1.2 [Programa que simula valor de corrida via app de acordo com distância e tempo.](https://github.com/tgoalm/Memorial_PUCRS/blob/main/Fundamentos%20de%20Computa%C3%A7%C3%A3o%20e%20Algoritmos/1.2.calcula-app-de-corrida/calcula-app-de-corrida.html)
+    1.2 [Programa que simula valor de corrida via app de acordo com distância e tempo.](https://github.com/tgoalm/Memorial_PUCRS/blob/main/Fundamentos%20de%20Computa%C3%A7%C3%A3o%20e%20Algoritmos/1.2.calcula-app-de-corrida)
 
-    1.3
+    1.3 [Programa que simula o funcionamento das abas de um Browser.](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Fundamentos%20de%20Computa%C3%A7%C3%A3o%20e%20Algoritmos/1.3.minibrowser)
 
 2. Programação Orientada a Objetos
 3. DevOps Básico
