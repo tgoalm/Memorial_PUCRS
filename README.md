@@ -16,7 +16,9 @@ Neste repositório, apresento artefatos elaborados ao longo do curso Desenvolvim
 
     1.6 [Programa para simples teste da instalação do node-js.](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Fundamentos%20de%20Computa%C3%A7%C3%A3o%20e%20Algoritmos/1.6.hello-world)
 
-    1.6 [Programa que verifica paridade.](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Fundamentos%20de%20Computa%C3%A7%C3%A3o%20e%20Algoritmos/1.7.avalia-paridade)
+    1.7 [Programa que verifica paridade.](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Fundamentos%20de%20Computa%C3%A7%C3%A3o%20e%20Algoritmos/1.7.avalia-paridade)
+
+    1.8 [Programa que testa a estrutura Set.](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Fundamentos%20de%20Computa%C3%A7%C3%A3o%20e%20Algoritmos/1.8.conjuntos-set)
 
 2. Programação Orientada a Objetos
 3. DevOps Básico
