@@ -21,6 +21,8 @@ Neste repositório, apresento artefatos elaborados ao longo do curso Desenvolvim
     1.8 [Programa que testa a estrutura Set.](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Fundamentos%20de%20Computa%C3%A7%C3%A3o%20e%20Algoritmos/1.8.conjuntos-set)
 
 2. Programação Orientada a Objetos
+    2.1 [Exemplo do escopo de variáveis.]()
+    
 3. DevOps Básico
 4. Design de UI
 5. Técnicas Ágeis de Programação
