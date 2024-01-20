@@ -22,11 +22,11 @@ Neste repositório, apresento artefatos elaborados ao longo do curso Desenvolvim
 
 2. Programação Orientada a Objetos
 
-    2.1 [Exemplo do escopo de variáveis var.]()
+    2.1 [Exemplo do escopo de variáveis var.](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Programacao_Orientada_a_Objetos/2.1.escopo-var)
 
-    2.2 [Exemplo do escopo de variáveis let.]()
+    2.2 [Exemplo do escopo de variáveis let.](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Programacao_Orientada_a_Objetos/2.2.escopo-let)
 
-    2.3 [Exemplo do escopo de variáveis const.]()
+    2.3 [Exemplo do escopo de variáveis const.](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Programacao_Orientada_a_Objetos/2.3.escopo-const)
 
 3. DevOps Básico
 4. Design de UI
