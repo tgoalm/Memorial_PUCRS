@@ -1,0 +1,3 @@
+[submodule "Devops_Basico/3.01.repositorio-git"]
+	path = Devops_Basico/3.01.repositorio-git
+	url = https://github.com/tgoalm/conversao-temperatura.git
