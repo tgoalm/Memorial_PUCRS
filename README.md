@@ -28,6 +28,28 @@ Neste repositório, apresento artefatos elaborados ao longo do curso Desenvolvim
 
     2.3 [Exemplo do escopo de variáveis const.](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Programacao_Orientada_a_Objetos/2.3.escopo-const)
 
+    2.4 [Exemplo de uso do array.length.](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Programacao_Orientada_a_Objetos/2.4.array-length)
+
+    2.5 [Exemplo de iteração o array.](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Programacao_Orientada_a_Objetos/2.5.array-iteracao)
+
+    2.6 [Exemplo de função com parâmetro.](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Programacao_Orientada_a_Objetos/2.6.funcao-com-parametro)
+
+    2.7 [Exemplo de função como parâmetro.](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Programacao_Orientada_a_Objetos/2.7.funcao-como-parametro)
+
+    2.8 [Exemplo de uso do array.some().](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Programacao_Orientada_a_Objetos/2.8.array-some)
+
+    2.9 [Exemplo de uso do array.every().](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Programacao_Orientada_a_Objetos/2.9.array-every)
+
+    2.10 [Exemplo de uso do array.filter().](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Programacao_Orientada_a_Objetos/2.10.array-filter)
+
+    2.11 [Exemplo de uso do array.foreach().](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Programacao_Orientada_a_Objetos/2.11.array-foreach)
+
+    2.12 [Exemplo de uso do array.reduce().](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Programacao_Orientada_a_Objetos/2.12.array-reduce)
+
+    2.13 [Exemplo de uso do array.map().](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Programacao_Orientada_a_Objetos/2.13.array-map)
+
+    2.14 [Exemplo de uso do array filter, map e foreach.](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Programacao_Orientada_a_Objetos/2.14.array-filterMapForEach)
+
 3. DevOps Básico
 4. Design de UI
 5. Técnicas Ágeis de Programação
