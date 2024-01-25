@@ -50,6 +50,24 @@ Neste repositório, apresento artefatos elaborados ao longo do curso Desenvolvim
 
     2.14 [Exemplo de uso do array filter, map e foreach.](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Programacao_Orientada_a_Objetos/2.14.array-filterMapForEach)
 
+    2.15 [Exemplo de uso Common JS.](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Programacao_Orientada_a_Objetos/2.15.modulo-commonJS)
+
+    2.16 [Exemplo de uso Common JS com classe.](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Programacao_Orientada_a_Objetos/2.16.modulo-commonJS-class)
+
+    2.17 [Exemplo de uso ES6.](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Programacao_Orientada_a_Objetos/2.17.modulo-ES6)
+
+    2.18 [Exemplo de uso ES6 com classe.](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Programacao_Orientada_a_Objetos/2.18.modulo-ES6-classe)
+
+    2.19 [Exemplo de transformação de objeto para json.](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Programacao_Orientada_a_Objetos/2.19.objeto-para-json)
+
+    2.20 [Exemplo de transformação de instância de classe para json.](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Programacao_Orientada_a_Objetos/2.20.instanccia-de-classe-para-json)
+
+    2.21 [Exemplo de transformação de arquivo json para objeto.](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Programacao_Orientada_a_Objetos/2.21.json-para-objeto)
+
+    2.22 [Exemplo de uma promise bem sucedida](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Programacao_Orientada_a_Objetos/2.22.promises)
+
+    2.23 [Exemplo de async](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Programacao_Orientada_a_Objetos/2.23.async)
+
 3. DevOps Básico
 4. Design de UI
 5. Técnicas Ágeis de Programação
