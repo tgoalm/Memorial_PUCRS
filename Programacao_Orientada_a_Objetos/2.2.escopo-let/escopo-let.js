@@ -1,5 +1,5 @@
-function primeiroTesteVar() {
-    console.log("primeiroTesteVar")
+function primeiroTesteLet() {
+    console.log("primeiroTesteLet")
     let let01 = "let 01"
     {
         let let02 = "let 02"
@@ -10,8 +10,8 @@ function primeiroTesteVar() {
     console.log("*****************")
 }
 
-function segundoTesteVar() {
-    console.log("segundoTesteVar")
+function segundoTesteLet() {
+    console.log("segundoTesteLet")
     let let01 = "let 01"
     {
         let let02 = "let 02"
@@ -23,8 +23,8 @@ function segundoTesteVar() {
     console.log("*****************")
 }
 
-function terceiroTesteVar() {
-    console.log("terceiroTesteVar")
+function terceiroTesteLet() {
+    console.log("terceiroTesteLet")
     let let01 = "let 01"
     {
         console.log(`01a.${let01}`)
@@ -35,6 +35,6 @@ function terceiroTesteVar() {
     console.log("*****************")
 }
 
-primeiroTesteVar()
-segundoTesteVar()
-terceiroTesteVar()
+primeiroTesteLet()
+segundoTesteLet()
+terceiroTesteLet()
