@@ -4,41 +4,41 @@ Neste repositório, apresento artefatos elaborados ao longo do curso Desenvolvim
 
 1. Fundamentos de Computação e Algoritmos
 
-    1.1 [Programa que calcula idade de acordo com data de nascimento e data atual.](https://github.com/tgoalm/Memorial_PUCRS/blob/main/Fundamentos%20de%20Computa%C3%A7%C3%A3o%20e%20Algoritmos/1.1.calcula-idade)
+    1.01 [Programa que calcula idade de acordo com data de nascimento e data atual.](https://github.com/tgoalm/Memorial_PUCRS/blob/main/Fundamentos%20de%20Computa%C3%A7%C3%A3o%20e%20Algoritmos/1.1.calcula-idade)
 
-    1.2 [Programa que simula valor de corrida via app de acordo com distância e tempo.](https://github.com/tgoalm/Memorial_PUCRS/blob/main/Fundamentos%20de%20Computa%C3%A7%C3%A3o%20e%20Algoritmos/1.2.calcula-app-de-corrida)
+    1.02 [Programa que simula valor de corrida via app de acordo com distância e tempo.](https://github.com/tgoalm/Memorial_PUCRS/blob/main/Fundamentos%20de%20Computa%C3%A7%C3%A3o%20e%20Algoritmos/1.2.calcula-app-de-corrida)
 
-    1.3 [Programa que simula o funcionamento das abas de um Browser.](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Fundamentos%20de%20Computa%C3%A7%C3%A3o%20e%20Algoritmos/1.3.minibrowser)
+    1.03 [Programa que simula o funcionamento das abas de um Browser.](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Fundamentos%20de%20Computa%C3%A7%C3%A3o%20e%20Algoritmos/1.3.minibrowser)
 
-    1.4 [Programa que simula uma esrutura de dados do tipo fila.](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Fundamentos%20de%20Computa%C3%A7%C3%A3o%20e%20Algoritmos/1.4.fila)
+    1.04 [Programa que simula uma esrutura de dados do tipo fila.](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Fundamentos%20de%20Computa%C3%A7%C3%A3o%20e%20Algoritmos/1.4.fila)
 
-    1.5 [Programa que simula uma esrutura de dados do tipo pilha.](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Fundamentos%20de%20Computa%C3%A7%C3%A3o%20e%20Algoritmos/1.5.pilha)
+    1.05 [Programa que simula uma esrutura de dados do tipo pilha.](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Fundamentos%20de%20Computa%C3%A7%C3%A3o%20e%20Algoritmos/1.5.pilha)
 
-    1.6 [Programa para simples teste da instalação do node-js.](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Fundamentos%20de%20Computa%C3%A7%C3%A3o%20e%20Algoritmos/1.6.hello-world)
+    1.06 [Programa para simples teste da instalação do node-js.](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Fundamentos%20de%20Computa%C3%A7%C3%A3o%20e%20Algoritmos/1.6.hello-world)
 
-    1.7 [Programa que verifica paridade.](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Fundamentos%20de%20Computa%C3%A7%C3%A3o%20e%20Algoritmos/1.7.avalia-paridade)
+    1.07 [Programa que verifica paridade.](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Fundamentos%20de%20Computa%C3%A7%C3%A3o%20e%20Algoritmos/1.7.avalia-paridade)
 
-    1.8 [Programa que testa a estrutura Set.](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Fundamentos%20de%20Computa%C3%A7%C3%A3o%20e%20Algoritmos/1.8.conjuntos-set)
+    1.08 [Programa que testa a estrutura Set.](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Fundamentos%20de%20Computa%C3%A7%C3%A3o%20e%20Algoritmos/1.8.conjuntos-set)
 
 2. Programação Orientada a Objetos
 
-    2.1 [Exemplo do escopo de variáveis var.](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Programacao_Orientada_a_Objetos/2.01.escopo-var)
+    2.01 [Exemplo do escopo de variáveis var.](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Programacao_Orientada_a_Objetos/2.01.escopo-var)
 
-    2.2 [Exemplo do escopo de variáveis let.](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Programacao_Orientada_a_Objetos/2.02.escopo-let)
+    2.02 [Exemplo do escopo de variáveis let.](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Programacao_Orientada_a_Objetos/2.02.escopo-let)
 
-    2.3 [Exemplo do escopo de variáveis const.](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Programacao_Orientada_a_Objetos/2.03.escopo-const)
+    2.03 [Exemplo do escopo de variáveis const.](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Programacao_Orientada_a_Objetos/2.03.escopo-const)
 
-    2.4 [Exemplo de uso do array.length.](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Programacao_Orientada_a_Objetos/2.04.array-length)
+    2.04 [Exemplo de uso do array.length.](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Programacao_Orientada_a_Objetos/2.04.array-length)
 
-    2.5 [Exemplo de iteração o array.](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Programacao_Orientada_a_Objetos/2.05.array-iteracao)
+    2.05 [Exemplo de iteração o array.](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Programacao_Orientada_a_Objetos/2.05.array-iteracao)
 
-    2.6 [Exemplo de função com parâmetro.](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Programacao_Orientada_a_Objetos/2.06.funcao-com-parametro)
+    2.06 [Exemplo de função com parâmetro.](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Programacao_Orientada_a_Objetos/2.06.funcao-com-parametro)
 
-    2.7 [Exemplo de função como parâmetro.](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Programacao_Orientada_a_Objetos/2.07.funcao-como-parametro)
+    2.07 [Exemplo de função como parâmetro.](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Programacao_Orientada_a_Objetos/2.07.funcao-como-parametro)
 
-    2.8 [Exemplo de uso do array.some().](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Programacao_Orientada_a_Objetos/2.08.array-some)
+    2.08 [Exemplo de uso do array.some().](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Programacao_Orientada_a_Objetos/2.08.array-some)
 
-    2.9 [Exemplo de uso do array.every().](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Programacao_Orientada_a_Objetos/2.09.array-every)
+    2.09 [Exemplo de uso do array.every().](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Programacao_Orientada_a_Objetos/2.09.array-every)
 
     2.10 [Exemplo de uso do array.filter().](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Programacao_Orientada_a_Objetos/2.10.array-filter)
 
