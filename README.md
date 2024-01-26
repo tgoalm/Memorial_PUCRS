@@ -70,7 +70,7 @@ Neste repositório, apresento artefatos elaborados ao longo do curso Desenvolvim
 
 3. DevOps Básico
 
-    3.01 [Exemplo de aplicação em repositório git.](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Devops_Basico/3.01.repositorio-git)
+    3.01 [Exemplo de aplicação em repositório git vom uso do fork.](https://github.com/tgoalm/conversao-temperatura)
 
     3.02 [Modelo de dockerfile ubuntu com curl.](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Devops_Basico/3.02.docker-ubuntu-curl)
 
@@ -83,7 +83,7 @@ Neste repositório, apresento artefatos elaborados ao longo do curso Desenvolvim
 5. Técnicas Ágeis de Programação
 
     5.01.
-    
+
 6. Web Services
 7. Design de UX
 8. Banco de Dados Relacional
