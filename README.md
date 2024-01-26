@@ -69,7 +69,17 @@ Neste repositório, apresento artefatos elaborados ao longo do curso Desenvolvim
     2.23 [Exemplo de async](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Programacao_Orientada_a_Objetos/2.23.async)
 
 3. DevOps Básico
+
+    3.01 [Exemplo de aplicação em repositório git.](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Devops_Basico/3.01.repositorio-git)
+
+    3.02 [Modelo de dockerfile ubuntu com curl.](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Devops_Basico/3.02.docker-ubuntu-curl)
+
+    3.03 [Exemplo de aplicação em imagem docker.](https://hub.docker.com/repository/docker/tgoalm/3.01.repositorio-git-conversao-temperatura/general)
+
 4. Design de UI
+
+    4.01.
+    
 5. Técnicas Ágeis de Programação
 6. Web Services
 7. Design de UX
