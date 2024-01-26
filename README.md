@@ -76,6 +76,8 @@ Neste repositório, apresento artefatos elaborados ao longo do curso Desenvolvim
 
     3.03 [Exemplo de aplicação em imagem docker.](https://hub.docker.com/repository/docker/tgoalm/3.01.repositorio-git-conversao-temperatura/general)
 
+    3.04 [Exemplo de pipeline com integração contínua.](https://github.com/tgoalm/conversao-temperatura/actions)
+
 4. Design de UI
 
     4.01.
