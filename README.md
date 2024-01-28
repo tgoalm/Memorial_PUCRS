@@ -94,6 +94,8 @@ Neste repositório, apresento artefatos elaborados ao longo do curso Desenvolvim
 
     4.06 [Exemplo de cliente local SOAP (rodar em conjunto com tópico 4.05).](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Web_Services/4.06.cliente-local-soap)
 
+    4.07 [Exemplo de Web Service REST.](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Web_Services/4.07.web-server-rest)
+
 7. Design de UX
 8. Banco de Dados Relacional
 9. MicroServiços

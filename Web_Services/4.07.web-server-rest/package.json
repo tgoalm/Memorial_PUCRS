@@ -1,0 +1,14 @@
+{
+  "name": "4.07.web-server-rest",
+  "version": "1.0.0",
+  "description": "Exemplo de Web Service REST.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tiago Almeida",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
