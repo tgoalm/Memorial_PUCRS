@@ -77,16 +77,17 @@ Neste repositório, apresento artefatos elaborados ao longo do curso Desenvolvim
     3.03 [Exemplo de aplicação em imagem docker.](https://hub.docker.com/repository/docker/tgoalm/3.01.repositorio-git-conversao-temperatura/general)
 
     3.04 [Exemplo de pipeline com integração contínua.](https://github.com/tgoalm/conversao-temperatura/actions)
-
-4. Design de UI
-
-    4.01.
     
-5. Técnicas Ágeis de Programação
+4. Web Services
 
-    5.01.
+    WEB SERVICES - AULA 02 - PARTE 01 - 23:55
 
-6. Web Services
+    4.01 [Exemplo simples de xml.](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Devops_Basico/4.01.mapa-cultural)
+   
+    4.02 [Hello world em node.js.](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Devops_Basico/4.02.hello-world)
+
+    4.03 [Exemplo de calculadora utilizando cliente SOAP.](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Devops_Basico/4.03.cliente-soap-calculadora)
+
 7. Design de UX
 8. Banco de Dados Relacional
 9. MicroServiços

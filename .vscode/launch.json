@@ -5,6 +5,8 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "outputCapture": "std",
+            "console": "integratedTerminal",
             "type": "node",
             "request": "launch",
             "name": "Launch Program",
