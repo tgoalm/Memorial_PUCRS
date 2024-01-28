@@ -9,6 +9,7 @@
   "author": "Tiago Almeida",
   "license": "ISC",
   "dependencies": {
+    "prompt-sync": "^4.2.0",
     "soap": "^1.0.0"
   }
 }
