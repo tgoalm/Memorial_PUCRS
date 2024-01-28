@@ -1,0 +1,15 @@
+{
+  "name": "4.03.cliente-soap",
+  "version": "1.0.0",
+  "description": "Exemplo de cliente SOAP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tiago Almeida",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0",
+    "soap": "^1.0.0"
+  }
+}
