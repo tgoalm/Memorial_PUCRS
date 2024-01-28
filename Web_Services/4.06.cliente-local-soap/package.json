@@ -1,0 +1,11 @@
+{
+  "name": "4.06.cliente-local-soap",
+  "version": "1.0.0",
+  "description": "Exemplo de cliente SOAP local.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tiago Almeida",
+  "license": "ISC"
+}
