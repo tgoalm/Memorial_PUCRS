@@ -86,7 +86,13 @@ Neste repositório, apresento artefatos elaborados ao longo do curso Desenvolvim
    
     4.02 [Hello world em node.js.](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Devops_Basico/4.02.hello-world)
 
-    4.03 [Exemplo de calculadora utilizando cliente SOAP.](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Devops_Basico/4.03.cliente-soap-calculadora)
+    4.03 [Exemplo de calculadora utilizando cliente SOAP (calculadora).](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Web_Services/4.03.cliente-soap-calculadora)
+
+    4.04 [Exemplo de calculadora utilizando cliente SOAP (busca CEP Correios).](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Web_Services/4.04.cliente-soap-correios)
+
+    4.05 [Exemplo de Web Service SOAP. Após 'subir' o servidor, utilizar cliente (tópico 4.06) para teste.](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Web_Services/4.05.web-service-soap)
+
+    4.06 [Exemplo de cliente local SOAP (rodar em conjunto com tópico 4.05).](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Web_Services/4.06.cliente-local-soap)
 
 7. Design de UX
 8. Banco de Dados Relacional
