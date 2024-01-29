@@ -98,9 +98,9 @@ Neste repositório, apresento artefatos elaborados ao longo do curso Desenvolvim
 
 5. Banco de Dados Relacional
 
-    5.01 [](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Banco_de_Dados_Relacional/5.01.diagrama-entidade-relacionamento)
+    5.01 [Exemplo de diagram entidade relacionamento (vendas).](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Banco_de_Dados_Relacional/5.01.der-vendas)
 
-    5.01 [](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Banco_de_Dados_Relacional/5.01.)
+    5.02 [Exemplo de diagram entidade relacionamento (delegacia de polícia).](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Banco_de_Dados_Relacional/5.02.der-dp)
 
 9. MicroServiços
 10. Empreendedorismo e Novos Modelos de Negócios
