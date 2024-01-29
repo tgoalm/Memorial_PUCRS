@@ -102,7 +102,17 @@ Neste repositório, apresento artefatos elaborados ao longo do curso Desenvolvim
 
     5.02 [Exemplo de diagram entidade relacionamento (delegacia de polícia).](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Banco_de_Dados_Relacional/5.02.der-dp)
 
-    5.03 [Exemplo de modelo lógico utilizando diagrama entidade relacionamento do tópico 5.01 (vendas).](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Banco_de_Dados_Relacional/5.03.der-dp)
+    5.03 [Exemplo de modelo lógico utilizando diagrama entidade relacionamento do tópico 5.01 (vendas).](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Banco_de_Dados_Relacional/5.03.modelo-logico-vendas)
+
+    5.04 [Exemplo de modelo lógico utilizando diagrama entidade relacionamento do tópico 5.02 (delegacia de polícia).](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Banco_de_Dados_Relacional/5.04.modelo-logico-dp)
+
+    5.05 [Exemplo de criação de base de dados do modelo lógico criado no tópico 5.03 (vendas) via ORM.](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Banco_de_Dados_Relacional/5.05.orm-vendas)
+
+    5.06 [Exemplo de criação de base de dados do modelo lógico criado no tópico 5.04 (delegacia de polícia) via ORM.](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Banco_de_Dados_Relacional/5.06.orm-dp)
+
+    5.07 [Exemplo de inserção de dados na tabela criada no tópico 5.05 (vendas.db).](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Banco_de_Dados_Relacional/5.07.insercao-dados-vendas.db)
+
+    5.08 [Exemplo de inserção de dados na tabela criada no tópico 5.06 (dp.db).](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Banco_de_Dados_Relacional/5.08.insercao-dados-dp.db)
 
 9. MicroServiços
 10. Empreendedorismo e Novos Modelos de Negócios
