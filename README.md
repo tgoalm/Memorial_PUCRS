@@ -4,21 +4,21 @@ Neste repositório, apresento artefatos elaborados ao longo do curso Desenvolvim
 
 1. Fundamentos de Computação e Algoritmos
 
-    1.01 [Programa que calcula idade de acordo com data de nascimento e data atual.](https://github.com/tgoalm/Memorial_PUCRS/blob/main/Fundamentos%20de%20Computa%C3%A7%C3%A3o%20e%20Algoritmos/1.1.calcula-idade)
+    1.01 [Programa que calcula idade de acordo com data de nascimento e data atual.](https://github.com/tgoalm/Memorial_PUCRS/blob/main/Fundamentos%20de%20Computa%C3%A7%C3%A3o%20e%20Algoritmos/1.01.calcula-idade)
 
-    1.02 [Programa que simula valor de corrida via app de acordo com distância e tempo.](https://github.com/tgoalm/Memorial_PUCRS/blob/main/Fundamentos%20de%20Computa%C3%A7%C3%A3o%20e%20Algoritmos/1.2.calcula-app-de-corrida)
+    1.02 [Programa que simula valor de corrida via app de acordo com distância e tempo.](https://github.com/tgoalm/Memorial_PUCRS/blob/main/Fundamentos%20de%20Computa%C3%A7%C3%A3o%20e%20Algoritmos/1.02.calcula-app-de-corrida)
 
-    1.03 [Programa que simula o funcionamento das abas de um Browser.](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Fundamentos%20de%20Computa%C3%A7%C3%A3o%20e%20Algoritmos/1.3.minibrowser)
+    1.03 [Programa que simula o funcionamento das abas de um Browser.](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Fundamentos%20de%20Computa%C3%A7%C3%A3o%20e%20Algoritmos/1.03.minibrowser)
 
-    1.04 [Programa que simula uma esrutura de dados do tipo fila.](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Fundamentos%20de%20Computa%C3%A7%C3%A3o%20e%20Algoritmos/1.4.fila)
+    1.04 [Programa que simula uma esrutura de dados do tipo fila.](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Fundamentos%20de%20Computa%C3%A7%C3%A3o%20e%20Algoritmos/1.04.fila)
 
-    1.05 [Programa que simula uma esrutura de dados do tipo pilha.](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Fundamentos%20de%20Computa%C3%A7%C3%A3o%20e%20Algoritmos/1.5.pilha)
+    1.05 [Programa que simula uma esrutura de dados do tipo pilha.](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Fundamentos%20de%20Computa%C3%A7%C3%A3o%20e%20Algoritmos/1.05.pilha)
 
-    1.06 [Programa para simples teste da instalação do node-js.](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Fundamentos%20de%20Computa%C3%A7%C3%A3o%20e%20Algoritmos/1.6.hello-world)
+    1.06 [Programa para simples teste da instalação do node-js.](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Fundamentos%20de%20Computa%C3%A7%C3%A3o%20e%20Algoritmos/1.06.hello-world)
 
-    1.07 [Programa que verifica paridade.](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Fundamentos%20de%20Computa%C3%A7%C3%A3o%20e%20Algoritmos/1.7.avalia-paridade)
+    1.07 [Programa que verifica paridade.](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Fundamentos%20de%20Computa%C3%A7%C3%A3o%20e%20Algoritmos/1.07.avalia-paridade)
 
-    1.08 [Programa que testa a estrutura Set.](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Fundamentos%20de%20Computa%C3%A7%C3%A3o%20e%20Algoritmos/1.8.conjuntos-set)
+    1.08 [Programa que testa a estrutura Set.](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Fundamentos%20de%20Computa%C3%A7%C3%A3o%20e%20Algoritmos/1.08.conjuntos-set)
 
 2. Programação Orientada a Objetos
 
@@ -96,8 +96,12 @@ Neste repositório, apresento artefatos elaborados ao longo do curso Desenvolvim
 
     4.07 [Exemplo de Web Service REST.](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Web_Services/4.07.web-server-rest)
 
-7. Design de UX
-8. Banco de Dados Relacional
+5. Banco de Dados Relacional
+
+    5.01 [](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Banco_de_Dados_Relacional/5.01.diagrama-entidade-relacionamento)
+
+    5.01 [](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Banco_de_Dados_Relacional/5.01.)
+
 9. MicroServiços
 10. Empreendedorismo e Novos Modelos de Negócios
 11. Qualidade e Teste de Software
