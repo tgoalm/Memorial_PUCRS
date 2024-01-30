@@ -10,15 +10,15 @@ Neste repositório, apresento artefatos elaborados ao longo do curso Desenvolvim
 
     1.03 Programa que simula o funcionamento das abas de um Browser.[:link:](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Fundamentos_de_Computacao_e_Algoritmos/1.03.minibrowser)
 
-    1.04 Programa que simula uma esrutura de dados do tipo fila. [:link:](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Fundamentos%20de%20Computa%C3%A7%C3%A3o%20e%20Algoritmos/1.04.fila)
+    1.04 Programa que simula uma esrutura de dados do tipo fila. [:link:](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Fundamentos_de_Computacao_e_Algoritmos/1.04.fila)
 
-    1.05 Programa que simula uma esrutura de dados do tipo pilha. [:link:](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Fundamentos%20de%20Computa%C3%A7%C3%A3o%20e%20Algoritmos/1.05.pilha)
+    1.05 Programa que simula uma esrutura de dados do tipo pilha. [:link:](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Fundamentos_de_Computacao_e_Algoritmos/1.05.pilha)
 
-    1.06 Programa para simples teste da instalação do node-js. [:link:](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Fundamentos%20de%20Computa%C3%A7%C3%A3o%20e%20Algoritmos/1.06.hello-world)
+    1.06 Programa para simples teste da instalação do node-js. [:link:](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Fundamentos_de_Computacao_e_Algoritmos/1.06.hello-world)
 
-    1.07 Programa que verifica paridade. [:link:](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Fundamentos%20de%20Computa%C3%A7%C3%A3o%20e%20Algoritmos/1.07.avalia-paridade)
+    1.07 Programa que verifica paridade. [:link:](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Fundamentos_de_Computacao_e_Algoritmos/1.07.avalia-paridade)
 
-    1.08 Programa que testa a estrutura Set. [:link:](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Fundamentos%20de%20Computa%C3%A7%C3%A3o%20e%20Algoritmos/1.08.conjuntos-set)
+    1.08 Programa que testa a estrutura Set. [:link:](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Fundamentos_de_Computacao_e_Algoritmos/1.08.conjuntos-set)
 
 2. Programação Orientada a Objetos
 
