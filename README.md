@@ -120,7 +120,7 @@ Neste repositório, apresento artefatos elaborados ao longo do curso Desenvolvim
 
     5.11 Exemplo de exclusão de dados via orm.[:link:](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Banco_de_Dados_Relacional/5.11.deleta-dados-orm)
 
-    5.12 Exemplos de sql oracle(https://github.com/tgoalm/Memorial_PUCRS/tree/main/Banco_de_Dados_Relacional/5.12.live-sql) realizados na plataforma [Live SQL](https://livesql.oracle.com/apex/livesql/s/8n7l7ru5fzvo03ws97gvl5pe).
+    5.12 [Exemplos de sql oracle](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Banco_de_Dados_Relacional/5.12.live-sql) realizados na plataforma [Live SQL](https://livesql.oracle.com/apex/livesql/s/8n7l7ru5fzvo03ws97gvl5pe).
 
 6. MicroServiços
 
