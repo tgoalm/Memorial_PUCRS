@@ -122,12 +122,10 @@ Neste repositório, apresento artefatos elaborados ao longo do curso Desenvolvim
 
     5.12 [Exemplos de sql oracle](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Banco_de_Dados_Relacional/5.12.live-sql) realizados na plataforma [Live SQL](https://livesql.oracle.com/apex/livesql/s/8n7l7ru5fzvo03ws97gvl5pe).
 
-6. MicroServiços
+6.  Qualidade e Teste de Software
 
-    6.01 [:link:]()
+    1.01 Exemplo de uso da ferramenta de teste Jest.[:link:](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Qualidade_e_Teste_de_Software/1.01.jest)
 
-10. Empreendedorismo e Novos Modelos de Negócios
-11. Qualidade e Teste de Software
 12. Bancos de Dados NoSql
 13. Design Thinking na Criação de Produtos e Serviços
 14. Arquitetura Server-Side

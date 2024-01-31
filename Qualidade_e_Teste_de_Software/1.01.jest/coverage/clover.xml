@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1706685414300" clover="3.2.0">
+  <project timestamp="1706685414301" name="All files">
+    <metrics statements="13" coveredstatements="11" conditionals="4" coveredconditionals="4" methods="8" coveredmethods="6" elements="25" coveredelements="21" complexity="0" loc="13" ncloc="13" packages="1" files="1" classes="1"/>
+    <file name="funcoes.js" path="C:\Users\tiago\Git\Memorial_PUCRS\Qualidade_e_Teste_de_Software\1.01.jest\funcoes.js">
+      <metrics statements="13" coveredstatements="11" conditionals="4" coveredconditionals="4" methods="8" coveredmethods="6"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="7" count="3" type="cond" truecount="4" falsecount="0"/>
+      <line num="8" count="2" type="stmt"/>
+      <line num="10" count="1" type="stmt"/>
+      <line num="12" count="4" type="stmt"/>
+      <line num="16" count="0" type="stmt"/>
+      <line num="17" count="2" type="stmt"/>
+      <line num="18" count="2" type="stmt"/>
+      <line num="19" count="0" type="stmt"/>
+      <line num="21" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
