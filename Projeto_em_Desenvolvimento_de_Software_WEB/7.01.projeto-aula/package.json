@@ -1,0 +1,14 @@
+{
+  "name": "7.01.projeto-aula",
+  "version": "1.0.0",
+  "description": "Projeto da aula.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tiago Almeida",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
