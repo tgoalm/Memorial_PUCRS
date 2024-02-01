@@ -126,12 +126,4 @@ Neste repositório, apresento artefatos elaborados ao longo do curso Desenvolvim
 
     1.01 Exemplo de uso da ferramenta de teste Jest.[:link:](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Qualidade_e_Teste_de_Software/1.01.jest)
 
-12. Bancos de Dados NoSql
-13. Design Thinking na Criação de Produtos e Serviços
-14. Arquitetura Server-Side
-15. DevOps Avançado
-16. Segurança de Software
-17. Programação para Web
-18. Mentalidade Ágil - Lean
-19. Lean Startup & MVP
-20. Arquitetura Client-Side
+7. Projeto em Desenvolvimento de Software WEB
