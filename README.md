@@ -80,8 +80,6 @@ Neste repositório, apresento artefatos elaborados ao longo do curso Desenvolvim
     
 4. Web Services
 
-    WEB SERVICES - AULA 02 - PARTE 01 - 23:55
-
     4.01 Exemplo simples de xml.[:link:](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Devops_Basico/4.01.mapa-cultural)
    
     4.02 Hello world em node.js.[:link:](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Devops_Basico/4.02.hello-world)
@@ -124,7 +122,8 @@ Neste repositório, apresento artefatos elaborados ao longo do curso Desenvolvim
 
 6.  Qualidade e Teste de Software
 
-    1.01 Exemplo de uso da ferramenta de teste Jest.[:link:](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Qualidade_e_Teste_de_Software/1.01.jest)
+    6.01 Exemplo de uso da ferramenta de teste Jest.[:link:](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Qualidade_e_Teste_de_Software/6.01.jest)
 
 7. Projeto em Desenvolvimento de Software WEB
+
     7.01 Exemplo de projeto em node e criação de imagem Docker.[:link:](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Projeto_em_Desenvolvimento_de_Software_WEB/7.01.projeto-aula)
