@@ -70,7 +70,7 @@ Neste repositório, apresento artefatos elaborados ao longo do curso Desenvolvim
 
 3. DevOps Básico
 
-    3.01 Exemplo de aplicação em repositório git vom uso do fork.[:link:](https://github.com/tgoalm/conversao-temperatura)
+    3.01 Exemplo de aplicação em repositório git com uso do fork.[:link:](https://github.com/tgoalm/conversao-temperatura)
 
     3.02 Modelo de dockerfile ubuntu com curl.[:link:](https://github.com/tgoalm/Memorial_PUCRS/tree/main/Devops_Basico/3.02.docker-ubuntu-curl)
 
